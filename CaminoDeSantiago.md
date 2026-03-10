@@ -54,7 +54,7 @@ So for most groups, reaching Santiago within the 4-day window is tight unless:
 ### Option B (Portugal/Spain): **Camino Portugués – Tui → Santiago** (excellent 4-day fit)
 [![Alt Text for Map](map-preview_Portugues.jpg)](https://www.google.com/maps/dir/Tui,+Spain/Cathedral+of+Santiago+de+Compostela,+Praza+do+Obradoiro,+s%2Fn,+Santiago+de+Compostela,+Spain/data=!4m14!4m13!1m5!1m1!19sChIJqxotPZeaJQ0RzkLrO4c8Pdk!2m2!1d-8.6466464!2d42.0491606!1m5!1m1!19sChIJB0dBJkP-Lg0RxRaj0LljjqE!2m2!1d-8.5443953999999991!2d42.880688!3e2)
 
-Check out [Camino Portugués Route](https://www.google.com/maps/dir/Tui,+Spain/Cathedral+of+Santiago+de+Compostela,+Praza+do+Obradoiro,+s%2Fn,+Santiago+de+Compostela,+Spain/data=!4m14!4m13!1m5!1m1!19sChIJqxotPZeaJQ0RzkLrO4c8Pdk!2m2!1d-8.6466464!2d42.0491606!1m5!1m1!19sChIJB0dBJkP-Lg0RxRaj0LljjqE!2m2!1d-8.5443953999999991!2d42.880688!3e2)
+Check out [Camino Portugués Route](Padrón)
 
 **Why this is ideal for 4 days:**  
 - **Perfect 4-stage itinerary**  
