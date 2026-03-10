@@ -19,7 +19,7 @@ With only **03–06 April (4 days total)** and starting in Germany, you can typi
 ## 2) Recommended route options (pick one)
 
 ### Option A (Spain): **Camino Francés – Sarria → Santiago** (popular, easiest logistics)
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d748860.3811102607!2d-8.641568149444788!3d42.84675263877292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd30480c846d9961%3A0xac94fb0b7ee5e94e!2sSarria%2C%2027600%20Sarria%2C%20Lugo%2C%20Spanien!3m2!1d42.784048999999996!2d-7.418822!4m5!1s0xd2efe4326414707%3A0xa18e63b9d0a316c5!2sKathedrale%20von%20Santiago%20de%20Compostela%2C%20Praza%20do%20Obradoiro%2C%20s%2Fn%2C%2015704%20Santiago%20de%20Compostela%2C%20A%20Coru%C3%B1a%2C%20Spanien!3m2!1d42.880688!2d-8.544395399999999!5e0!3m2!1sde!2sde!4v1773170995823!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[![Alt Text for Map](map-preview_Frances.jpg)]([https://www.google.com/maps/your-unique-url](https://www.google.com/maps/dir/Sarria/Cathedral+of+Santiago+de+Compostela,+Praza+do+Obradoiro,+s%2Fn,+Santiago+de+Compostela,+Spain/data=!4m14!4m13!1m5!1m1!19sChIJYZlthAxIMA0RTunlfgv7lKw!2m2!1d-7.418822!2d42.784048999999996!1m5!1m1!19sChIJB0dBJkP-Lg0RxRaj0LljjqE!2m2!1d-8.5443953999999991!2d42.880688!3e2))
 **Why this is ideal for 4 days:**  
 - Very frequent accommodation, cafés, baggage transfer if desired  
 - Excellent markings  
